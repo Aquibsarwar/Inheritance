@@ -15,7 +15,8 @@ public class myComputer extends computer{
 
 	
 	public String toString() {
-		return ("Amar nam Bhuiyan!"+"\n"+super.toString()+ "\n"+"Monitor:"+monitor+"\n"+"mouse:"+mouse+"\n"+"bou:"+girlFriend+"\n"+"\n");
+		return ("Amar nam Bhuiyan!"+"\n"+super.toString()+ "\n"+"Monitor:"	
+				+monitor+"\n"+"mouse:"+mouse+"\n"+"bou:"+girlFriend+"\n"+"\n");
 		
 	}
 	

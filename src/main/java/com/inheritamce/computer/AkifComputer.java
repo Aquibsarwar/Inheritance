@@ -17,7 +17,8 @@ public class AkifComputer extends computer {
 	}
 
 	public String toString() {
-		return ("Amar nam AKIF!"+"\n"+super.toString()+ "\n"+"Monitor:"+monitor+"\n"+"mouse:"+mouse+"\n"+"bou:"+girlFriend);
+		return ("Amar nam AKIF!"+"\n"+super.toString()+ "\n"+"Monitor:"+monitor+"\n"+"mouse:"
+				+mouse+"\n"+"bou:"+girlFriend);
 		
 	}
 	
